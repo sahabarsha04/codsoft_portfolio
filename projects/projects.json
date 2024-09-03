@@ -1,0 +1,48 @@
+[
+    
+    {
+      "name": "Techy Software",
+      "desc": "A responsive website for software company. Built using Javascript, HTML and CSS.",
+      "image": "techysoftware",
+      "links":{
+             "view":"https://sahabarsha04.github.io/Techy_Software/",
+             "code":"https://github.com/sahabarsha04/Techy_Software"
+      }
+    },
+    {
+      "name": "ShopFront- ecommerce website",
+      "desc": "Built using Javascript, HTML and CSS. An e-commerce website for shopping.",
+      "image": "shopfront",
+      "links": {
+        "view":" https://sahabarsha04.github.io/Shopfront-Ecommerce_Website/",
+        "code":"https://github.com/sahabarsha04/Shopfront-Ecommerce_Website"
+      }
+    },
+    {
+      "name": "Techfy- Landing Page",
+      "desc": "Built using Javascript, HTML and CSS. A lading page of a company website.",
+      "image": "techfy",
+      "links": {
+        "view":"https://sahabarsha04.github.io/Codsoft_Techfy_Landing-page/",
+        "code":"https://github.com/sahabarsha04/Codsoft_Techfy_Landing-page"
+      }
+    },
+    {
+      "name": "To-Do List",
+      "desc": "Built using HTML, CSS  and Javasript",
+      "image": "todolist",
+      "links": {
+        "view":"https://sahabarsha04.github.io/Brainwave_Matrix_Intern_Todo_List/",
+        "code":"https://github.com/sahabarsha04/Brainwave_Matrix_Intern_Todo_List"
+      }
+    },
+    {
+      "name": "Registration Form",
+      "desc": "A registration form with Sign Up and Log In functionality. Build using Javascript, CSS and HTML",
+      "image": "register",
+      "links": {
+        "view":"https://sahabarsha04.github.io/nexus-project-1/",
+        "code":"https://github.com/sahabarsha04/nexus-project-1"
+      }
+    }
+  ]
